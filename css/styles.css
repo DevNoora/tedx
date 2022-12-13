@@ -25,7 +25,7 @@ body:before {
     top: 100%; */
   position: relative;
   width: 1512px;
-  height: 982px;
+  /* height: 9px; */
   z-index: 2;
   display: block;
   -webkit-border-radius: 50%;
