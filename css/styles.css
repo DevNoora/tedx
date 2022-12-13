@@ -20,8 +20,7 @@ html {
     height: 0px;
     padding: 0px;
     border: 130em solid #fff;
-    position: absolute;
-    background: #fff;
+    /* position: absolute; */
     /* left: 50%;
     top: 100%; */
     z-index: 2;
