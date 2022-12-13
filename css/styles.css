@@ -19,7 +19,7 @@ html {
     content: "";
     height: 0px;
     padding: 0px;
-    border: 130em solid #000;
+    border: 130em solid red;
     position: absolute;
     left: 50%;
     top: 100%;
