@@ -19,11 +19,6 @@ html {
     content: "";
     height: 0px;
     padding: 0px;
-<<<<<<< Updated upstream
-    border: 130em solid #fff;
-=======
-    border: 130em solid #000;
->>>>>>> Stashed changes
     position: absolute;
     z-index: 2;
     display: block;
